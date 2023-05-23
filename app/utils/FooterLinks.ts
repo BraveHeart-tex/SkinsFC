@@ -27,7 +27,7 @@ const FooterLinks: FooterLink[] = [
     heading: 'Oyuncular',
     links: [
       { label: 'Hall of Fame', href: '/hallOfFame', isExternal: false },
-      { label: 'Takım Galerisi', href: '#players', isExternal: false },
+      { label: 'Takım Galerisi', href: '/#players', isExternal: false },
     ],
   },
   {
